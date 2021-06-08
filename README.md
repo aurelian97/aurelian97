@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noureddine hamza
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5/CSS3/JavaScript
+- 🌱 I’m currently learning HTML5/CSS3/JavaScript/GoLang
 - 💞️ I’m looking to collaborate on creating and maintaining web pages
 - 📫 How to reach me : contact me on valerio.hamza99@gmail.com
 
